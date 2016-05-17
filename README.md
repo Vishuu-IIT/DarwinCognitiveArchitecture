@@ -23,3 +23,4 @@ GUI: Given the complexity of the architecture, various Visualization interfaces 
 in all the core modules, to give the user an insider view
 
 contact vishwanathan.mohan@iit.it or/ ajaz.bhat@iit.it for further info or assitance.
+More info http://www.vishwanathanmohan.com/#!darwin-cognitive-architecture/c6p2g 
